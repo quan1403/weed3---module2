@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access_modifier/Access_modifier.iml" filepath="$PROJECT_DIR$/Access_modifier/Access_modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.iml" filepath="$PROJECT_DIR$/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IllegalTriangleException/IllegalTriangleException.iml" filepath="$PROJECT_DIR$/IllegalTriangleException/IllegalTriangleException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiontap/baiontap.iml" filepath="$PROJECT_DIR$/baiontap/baiontap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitapnhapsobatky/baitapnhapsobatky.iml" filepath="$PROJECT_DIR$/baitapnhapsobatky/baitapnhapsobatky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptimkiemnhiphan/baitaptimkiemnhiphan.iml" filepath="$PROJECT_DIR$/baitaptimkiemnhiphan/baitaptimkiemnhiphan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caidat_thuattoan_sap_xep/caidat_thuattoan_sap_xep.iml" filepath="$PROJECT_DIR$/caidat_thuattoan_sap_xep/caidat_thuattoan_sap_xep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator_comparable/comparator_comparable.iml" filepath="$PROJECT_DIR$/comparator_comparable/comparator_comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugjava/debugjava.iml" filepath="$PROJECT_DIR$/debugjava/debugjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dethithuchanh2/dethithuchanh2.iml" filepath="$PROJECT_DIR$/dethithuchanh2/dethithuchanh2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap_hashset/hashmap_hashset.iml" filepath="$PROJECT_DIR$/hashmap_hashset/hashmap_hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minhhoachen/minhhoachen.iml" filepath="$PROJECT_DIR$/minhhoachen/minhhoachen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minhhoathuatoanchen/minhhoathuatoanchen.iml" filepath="$PROJECT_DIR$/minhhoathuatoanchen/minhhoathuatoanchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh1/thuchanh1.iml" filepath="$PROJECT_DIR$/thuchanh1/thuchanh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh_sx_noi_bot/thuchanh_sx_noi_bot.iml" filepath="$PROJECT_DIR$/thuchanh_sx_noi_bot/thuchanh_sx_noi_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh_sx_noibot/thuchanh_sx_noibot.iml" filepath="$PROJECT_DIR$/thuchanh_sx_noibot/thuchanh_sx_noibot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanhbinarysearch/thuchanhbinarysearch.iml" filepath="$PROJECT_DIR$/thuchanhbinarysearch/thuchanhbinarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuhanh_hasmap_linked_treemap/thuhanh_hasmap_linked_treemap.iml" filepath="$PROJECT_DIR$/thuhanh_hasmap_linked_treemap/thuhanh_hasmap_linked_treemap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinhchuoicododailonnhat/tinhchuoicododailonnhat.iml" filepath="$PROJECT_DIR$/tinhchuoicododailonnhat/tinhchuoicododailonnhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinhdophuctapcuathuattoan/tinhdophuctapcuathuattoan.iml" filepath="$PROJECT_DIR$/tinhdophuctapcuathuattoan/tinhdophuctapcuathuattoan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truyen1songuyen/truyen1songuyen.iml" filepath="$PROJECT_DIR$/truyen1songuyen/truyen1songuyen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vidu/vidu.iml" filepath="$PROJECT_DIR$/vidu/vidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weed3-module2.iml" filepath="$PROJECT_DIR$/.idea/weed3-module2.iml" />
+    </modules>
+  </component>
+</project>
